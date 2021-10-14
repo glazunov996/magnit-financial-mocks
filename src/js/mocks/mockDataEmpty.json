@@ -1,0 +1,2993 @@
+{
+  "dates": [
+    [
+      {
+        "label": "201901",
+        "year": 2019,
+        "month": 1,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201902",
+        "year": 2019,
+        "month": 2,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201903",
+        "year": 2019,
+        "month": 3,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201904",
+        "year": 2019,
+        "month": 4,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201905",
+        "year": 2019,
+        "month": 5,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201906",
+        "year": 2019,
+        "month": 6,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201907",
+        "year": 2019,
+        "month": 7,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201908",
+        "year": 2019,
+        "month": 8,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201909",
+        "year": 2019,
+        "month": 9,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201910",
+        "year": 2019,
+        "month": 10,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201911",
+        "year": 2019,
+        "month": 11,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201912",
+        "year": 2019,
+        "month": 12,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202001",
+        "year": 2020,
+        "month": 1,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202002",
+        "year": 2020,
+        "month": 2,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202003",
+        "year": 2020,
+        "month": 3,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202004",
+        "year": 2020,
+        "month": 4,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202005",
+        "year": 2020,
+        "month": 5,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202006",
+        "year": 2020,
+        "month": 6,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202007",
+        "year": 2020,
+        "month": 7,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202008",
+        "year": 2020,
+        "month": 8,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202009",
+        "year": 2020,
+        "month": 9,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202010",
+        "year": 2020,
+        "month": 10,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202011",
+        "year": 2020,
+        "month": 11,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202012",
+        "year": 2020,
+        "month": 12,
+        "picked": false,
+        "disabled": false
+      }
+    ],
+    [
+      {
+        "label": "201901",
+        "year": 2019,
+        "month": 1,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201902",
+        "year": 2019,
+        "month": 2,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201903",
+        "year": 2019,
+        "month": 3,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201904",
+        "year": 2019,
+        "month": 4,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201905",
+        "year": 2019,
+        "month": 5,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201906",
+        "year": 2019,
+        "month": 6,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201907",
+        "year": 2019,
+        "month": 7,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201908",
+        "year": 2019,
+        "month": 8,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201909",
+        "year": 2019,
+        "month": 9,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201910",
+        "year": 2019,
+        "month": 10,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201911",
+        "year": 2019,
+        "month": 11,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "201912",
+        "year": 2019,
+        "month": 12,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202001",
+        "year": 2020,
+        "month": 1,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202002",
+        "year": 2020,
+        "month": 2,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202003",
+        "year": 2020,
+        "month": 3,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202004",
+        "year": 2020,
+        "month": 4,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202005",
+        "year": 2020,
+        "month": 5,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202006",
+        "year": 2020,
+        "month": 6,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202007",
+        "year": 2020,
+        "month": 7,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202008",
+        "year": 2020,
+        "month": 8,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202009",
+        "year": 2020,
+        "month": 9,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202010",
+        "year": 2020,
+        "month": 10,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202011",
+        "year": 2020,
+        "month": 11,
+        "picked": false,
+        "disabled": false
+      },
+      {
+        "label": "202012",
+        "year": 2020,
+        "month": 12,
+        "picked": false,
+        "disabled": false
+      }
+    ]
+  ],
+  "filter": [
+    {
+      "key": "FRMT",
+      "data": [
+        {
+          "label": "ММ",
+          "value": "ММ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК",
+          "value": "МК",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ГМ",
+          "value": "ГМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МС",
+          "value": "МС",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МО",
+          "value": "МО",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА",
+          "value": "МА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ПР",
+          "value": "ПР",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ВМ",
+          "value": "ВМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Без формата",
+          "value": "Без формата",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "SUBFRMT",
+      "data": [
+        {
+          "label": "ММ",
+          "value": "ММ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК",
+          "value": "МК",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ГМ",
+          "value": "ГМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МС",
+          "value": "МС",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МО",
+          "value": "МО",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА",
+          "value": "МА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ПР",
+          "value": "ПР",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ВМ",
+          "value": "ВМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Без формата",
+          "value": "Без формата",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Округ",
+      "data": [
+        {
+          "label": "Администрация",
+          "value": "Администрация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Волжский",
+          "value": "Волжский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Кавказский",
+          "value": "Кавказский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Московский",
+          "value": "Московский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Северо-Западный",
+          "value": "Северо-Западный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Сибирский",
+          "value": "Сибирский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Уральский",
+          "value": "Уральский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Центральный",
+          "value": "Центральный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Южный",
+          "value": "Южный",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Филиал",
+      "data": [
+        {
+          "label": "Администрация",
+          "value": "Администрация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Волжского",
+          "value": "БФ Волжского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Кавказского",
+          "value": "БФ Кавказского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Московского",
+          "value": "БФ Московского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Северо-Западного",
+          "value": "БФ Северо-Западного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Сибирского",
+          "value": "БФ Сибирского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Уральского",
+          "value": "БФ Уральского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Центрального",
+          "value": "БФ Центрального",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Южного",
+          "value": "БФ Южного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Волжского",
+          "value": "МА Волжского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Кавказского",
+          "value": "МА Кавказского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Московского",
+          "value": "МА Московского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Северо-Западного",
+          "value": "МА Северо-Западного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Сибирского",
+          "value": "МА Сибирского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Уральского",
+          "value": "МА Уральского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Центрального",
+          "value": "МА Центрального",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Южного",
+          "value": "МА Южного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Армавир",
+          "value": "МК Армавир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Архангельск",
+          "value": "МК Архангельск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Астрахань",
+          "value": "МК Астрахань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Балаково",
+          "value": "МК Балаково",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Барнаул",
+          "value": "МК Барнаул",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Белгород Восток",
+          "value": "МК Белгород Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Белгород Запад",
+          "value": "МК Белгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Березники",
+          "value": "МК Березники",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Брянск",
+          "value": "МК Брянск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Великий Новгород",
+          "value": "МК Великий Новгород",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Владикавказ",
+          "value": "МК Владикавказ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Владимир",
+          "value": "МК Владимир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгоград Восток",
+          "value": "МК Волгоград Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгоград Запад",
+          "value": "МК Волгоград Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгодонск",
+          "value": "МК Волгодонск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волжский общ.",
+          "value": "МК Волжский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Вологда",
+          "value": "МК Вологда",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Воронеж Север",
+          "value": "МК Воронеж Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Воронеж Юг",
+          "value": "МК Воронеж Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Екатеринбург Восток",
+          "value": "МК Екатеринбург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Екатеринбург Запад",
+          "value": "МК Екатеринбург Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Иваново",
+          "value": "МК Иваново",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ижевск Север",
+          "value": "МК Ижевск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ижевск Юг",
+          "value": "МК Ижевск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Кавказский общ.",
+          "value": "МК Кавказский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Казань Восток",
+          "value": "МК Казань Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Казань Запад",
+          "value": "МК Казань Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Калуга",
+          "value": "МК Калуга",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Камышин",
+          "value": "МК Камышин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Каневская",
+          "value": "МК Каневская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Кемерово",
+          "value": "МК Кемерово",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Киров",
+          "value": "МК Киров",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Краснодар Восток",
+          "value": "МК Краснодар Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Краснодар Запад",
+          "value": "МК Краснодар Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Красноярск",
+          "value": "МК Красноярск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Курган",
+          "value": "МК Курган",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Курск",
+          "value": "МК Курск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Липецк",
+          "value": "МК Липецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Магнитогорск",
+          "value": "МК Магнитогорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 1",
+          "value": "МК Москва 1",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 2",
+          "value": "МК Москва 2",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 3",
+          "value": "МК Москва 3",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 4",
+          "value": "МК Москва 4",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 5",
+          "value": "МК Москва 5",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 6",
+          "value": "МК Москва 6",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Московский общ.",
+          "value": "МК Московский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Мурманск",
+          "value": "МК Мурманск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Набережные Челны Восток",
+          "value": "МК Набережные Челны Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Набережные Челны Запад",
+          "value": "МК Набережные Челны Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Новгород Север",
+          "value": "МК Нижний Новгород Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Новгород Юг",
+          "value": "МК Нижний Новгород Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Тагил",
+          "value": "МК Нижний Тагил",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новокузнецк",
+          "value": "МК Новокузнецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новороссийск Восток",
+          "value": "МК Новороссийск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новороссийск Запад",
+          "value": "МК Новороссийск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новосибирск",
+          "value": "МК Новосибирск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Омск Восток",
+          "value": "МК Омск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Омск Запад",
+          "value": "МК Омск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Орел",
+          "value": "МК Орел",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Оренбург",
+          "value": "МК Оренбург",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Орск",
+          "value": "МК Орск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пенза",
+          "value": "МК Пенза",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пермь Восток",
+          "value": "МК Пермь Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пермь Запад",
+          "value": "МК Пермь Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Петрозаводск",
+          "value": "МК Петрозаводск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Псков",
+          "value": "МК Псков",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пятигорск",
+          "value": "МК Пятигорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ростов-на-Дону Восток",
+          "value": "МК Ростов-на-Дону Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ростов-на-Дону Запад",
+          "value": "МК Ростов-на-Дону Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Рязань",
+          "value": "МК Рязань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Самара Восток",
+          "value": "МК Самара Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Самара Запад",
+          "value": "МК Самара Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Восток",
+          "value": "МК Санкт-Петербург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Север",
+          "value": "МК Санкт-Петербург Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Центр",
+          "value": "МК Санкт-Петербург Центр",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Юг",
+          "value": "МК Санкт-Петербург Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саранск",
+          "value": "МК Саранск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саратов Восток",
+          "value": "МК Саратов Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саратов Запад",
+          "value": "МК Саратов Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Северо-Западный общ.",
+          "value": "МК Северо-Западный общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сибирский общ.",
+          "value": "МК Сибирский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Смоленск",
+          "value": "МК Смоленск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сочи",
+          "value": "МК Сочи",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ставрополь",
+          "value": "МК Ставрополь",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Стерлитамак",
+          "value": "МК Стерлитамак",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сургут",
+          "value": "МК Сургут",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сыктывкар",
+          "value": "МК Сыктывкар",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тамбов",
+          "value": "МК Тамбов",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тверь",
+          "value": "МК Тверь",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тольятти",
+          "value": "МК Тольятти",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тула",
+          "value": "МК Тула",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тюмень",
+          "value": "МК Тюмень",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ульяновск",
+          "value": "МК Ульяновск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Уральский общ.",
+          "value": "МК Уральский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Уфа Восток",
+          "value": "МК Уфа Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Уфа Запад",
+          "value": "МК Уфа Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Центральный общ.",
+          "value": "МК Центральный общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Чебоксары Север",
+          "value": "МК Чебоксары Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Чебоксары Юг",
+          "value": "МК Чебоксары Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Челябинск Север",
+          "value": "МК Челябинск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Челябинск Юг",
+          "value": "МК Челябинск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Шахты",
+          "value": "МК Шахты",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Южный общ.",
+          "value": "МК Южный общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ярославль Восток",
+          "value": "МК Ярославль Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ярославль Запад",
+          "value": "МК Ярославль Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Армавир",
+          "value": "ММ Армавир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Архангельск",
+          "value": "ММ Архангельск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Астрахань",
+          "value": "ММ Астрахань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Балаково",
+          "value": "ММ Балаково",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Барнаул",
+          "value": "ММ Барнаул",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Белгород Восток",
+          "value": "ММ Белгород Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Белгород Запад",
+          "value": "ММ Белгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Березники",
+          "value": "ММ Березники",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Брянск",
+          "value": "ММ Брянск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Великий Новгород",
+          "value": "ММ Великий Новгород",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Владикавказ",
+          "value": "ММ Владикавказ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Владимир",
+          "value": "ММ Владимир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгоград Восток",
+          "value": "ММ Волгоград Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгоград Запад",
+          "value": "ММ Волгоград Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгодонск",
+          "value": "ММ Волгодонск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волжский общ.",
+          "value": "ММ Волжский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Вологда",
+          "value": "ММ Вологда",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Воронеж Север",
+          "value": "ММ Воронеж Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Воронеж Юг",
+          "value": "ММ Воронеж Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Екатеринбург Восток",
+          "value": "ММ Екатеринбург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Екатеринбург Запад",
+          "value": "ММ Екатеринбург Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Иваново",
+          "value": "ММ Иваново",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ижевск Север",
+          "value": "ММ Ижевск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ижевск Юг",
+          "value": "ММ Ижевск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Кавказский общ.",
+          "value": "ММ Кавказский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Казань Восток",
+          "value": "ММ Казань Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Казань Запад",
+          "value": "ММ Казань Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Калуга",
+          "value": "ММ Калуга",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Камышин",
+          "value": "ММ Камышин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Каневская",
+          "value": "ММ Каневская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Кемерово",
+          "value": "ММ Кемерово",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Киров",
+          "value": "ММ Киров",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Краснодар Восток",
+          "value": "ММ Краснодар Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Краснодар Запад",
+          "value": "ММ Краснодар Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Красноярск",
+          "value": "ММ Красноярск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Курган",
+          "value": "ММ Курган",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Курск",
+          "value": "ММ Курск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Липецк",
+          "value": "ММ Липецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Магнитогорск",
+          "value": "ММ Магнитогорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 1",
+          "value": "ММ Москва 1",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 2",
+          "value": "ММ Москва 2",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 3",
+          "value": "ММ Москва 3",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 4",
+          "value": "ММ Москва 4",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 5",
+          "value": "ММ Москва 5",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 6",
+          "value": "ММ Москва 6",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Московский общ.",
+          "value": "ММ Московский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Мурманск",
+          "value": "ММ Мурманск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Набережные Челны Восток",
+          "value": "ММ Набережные Челны Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Набережные Челны Запад",
+          "value": "ММ Набережные Челны Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Новгород Север",
+          "value": "ММ Нижний Новгород Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Новгород Юг",
+          "value": "ММ Нижний Новгород Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Тагил",
+          "value": "ММ Нижний Тагил",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новокузнецк",
+          "value": "ММ Новокузнецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новороссийск Восток",
+          "value": "ММ Новороссийск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новороссийск Запад",
+          "value": "ММ Новороссийск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новосибирск",
+          "value": "ММ Новосибирск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Омск Восток",
+          "value": "ММ Омск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Омск Запад",
+          "value": "ММ Омск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Орел",
+          "value": "ММ Орел",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Оренбург",
+          "value": "ММ Оренбург",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Орск",
+          "value": "ММ Орск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пенза",
+          "value": "ММ Пенза",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пермь Восток",
+          "value": "ММ Пермь Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пермь Запад",
+          "value": "ММ Пермь Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Петрозаводск",
+          "value": "ММ Петрозаводск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Псков",
+          "value": "ММ Псков",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пятигорск",
+          "value": "ММ Пятигорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ростов-на-Дону Восток",
+          "value": "ММ Ростов-на-Дону Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ростов-на-Дону Запад",
+          "value": "ММ Ростов-на-Дону Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Рязань",
+          "value": "ММ Рязань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Самара Восток",
+          "value": "ММ Самара Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Самара Запад",
+          "value": "ММ Самара Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Санкт-Петербург Восток",
+          "value": "ММ Санкт-Петербург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Санкт-Петербург Север",
+          "value": "ММ Санкт-Петербург Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Санкт-Петербург Центр",
+          "value": "ММ Санкт-Петербург Центр",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Санкт-Петербург Юг",
+          "value": "ММ Санкт-Петербург Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Саранск",
+          "value": "ММ Саранск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Саратов Восток",
+          "value": "ММ Саратов Восток",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Магазин",
+      "data": [
+        {
+          "label": "25",
+          "value": "25",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "777",
+          "value": "777",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "999",
+          "value": "999",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "2 Линия",
+          "value": "2 Линия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "2-ая Пятилетка",
+          "value": "2-ая Пятилетка",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "2-й район",
+          "value": "2-й район",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "8 Марта",
+          "value": "8 Марта",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "11 Квартал",
+          "value": "11 Квартал",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "14 микрорайон",
+          "value": "14 микрорайон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "19 съезд",
+          "value": "19 съезд",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "21ВЕК",
+          "value": "21ВЕК",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "30 Лет Победы",
+          "value": "30 Лет Победы",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "40 Лет Победы",
+          "value": "40 Лет Победы",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "45 параллель",
+          "value": "45 параллель",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "50 лет Октября",
+          "value": "50 лет Октября",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "160926БНН@(Черкесск Кавказская (а)) - !!! НЕ ВЫБИРАТЬ",
+          "value": "160926БНН@(Черкесск Кавказская (а)) - !!! НЕ ВЫБИРАТЬ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аардоникс",
+          "value": "Аардоникс",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аарон",
+          "value": "Аарон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абаго",
+          "value": "Абаго",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абажур",
+          "value": "Абажур",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абазин",
+          "value": "Абазин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абазинка",
+          "value": "Абазинка",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абазинский",
+          "value": "Абазинский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абаим",
+          "value": "Абаим",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абайский",
+          "value": "Абайский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абак",
+          "value": "Абак",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абакан",
+          "value": "Абакан",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абакан 1 Торговая (а)",
+          "value": "Абакан 1 Торговая (а)",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абакан Дружбы народов (а)",
+          "value": "Абакан Дружбы народов (а)",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абакан МС Общий",
+          "value": "Абакан МС Общий",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абакелия",
+          "value": "Абакелия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абалак",
+          "value": "Абалак",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абалакин",
+          "value": "Абалакин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абалигет",
+          "value": "Абалигет",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абандон",
+          "value": "Абандон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абанкай",
+          "value": "Абанкай",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абант",
+          "value": "Абант",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абарис",
+          "value": "Абарис",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абасто",
+          "value": "Абасто",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абастумани",
+          "value": "Абастумани",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абатск",
+          "value": "Абатск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абацвиж",
+          "value": "Абацвиж",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абашар",
+          "value": "Абашар",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абашево",
+          "value": "Абашево",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббадо",
+          "value": "Аббадо",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббатиса",
+          "value": "Аббатиса",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббатисса",
+          "value": "Аббатисса",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббот",
+          "value": "Аббот",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абботсфорд",
+          "value": "Абботсфорд",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббревиатура",
+          "value": "Аббревиатура",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббревиация",
+          "value": "Аббревиация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аббт",
+          "value": "Аббт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдаляр",
+          "value": "Абдаляр",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдер",
+          "value": "Абдер",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдинов",
+          "value": "Абдинов",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдо",
+          "value": "Абдо",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдраган",
+          "value": "Абдраган",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдуктор",
+          "value": "Абдуктор",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдулино",
+          "value": "Абдулино",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абдуллинская",
+          "value": "Абдуллинская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абелакский",
+          "value": "Абелакский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абелев",
+          "value": "Абелев",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абеликс",
+          "value": "Абеликс",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абелия",
+          "value": "Абелия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абельман",
+          "value": "Абельман",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абеокута",
+          "value": "Абеокута",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абердар",
+          "value": "Абердар",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абердин",
+          "value": "Абердин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абердинская",
+          "value": "Абердинская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аберрация",
+          "value": "Аберрация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аберт",
+          "value": "Аберт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абзаковский",
+          "value": "Абзаковский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абзац",
+          "value": "Абзац",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абзелил",
+          "value": "Абзелил",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абзетцер",
+          "value": "Абзетцер",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абигэйл",
+          "value": "Абигэйл",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абиджан",
+          "value": "Абиджан",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абилин",
+          "value": "Абилин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абинск 1 Колхозная",
+          "value": "Абинск 1 Колхозная",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абиогенез",
+          "value": "Абиогенез",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абисиния",
+          "value": "Абисиния",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абиссаль",
+          "value": "Абиссаль",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абиссинка",
+          "value": "Абиссинка",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абиссинский",
+          "value": "Абиссинский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абист",
+          "value": "Абист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абитарный",
+          "value": "Абитарный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абитуриент",
+          "value": "Абитуриент",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аблай",
+          "value": "Аблай",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аблесимов",
+          "value": "Аблесимов",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абляция",
+          "value": "Абляция",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абнер",
+          "value": "Абнер",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абовин",
+          "value": "Абовин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абодье",
+          "value": "Абодье",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аболиционист",
+          "value": "Аболиционист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аболиция",
+          "value": "Аболиция",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абомей",
+          "value": "Абомей",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абонемент",
+          "value": "Абонемент",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абонент",
+          "value": "Абонент",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абонентский",
+          "value": "Абонентский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абордаж",
+          "value": "Абордаж",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абориген",
+          "value": "Абориген",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абортивный",
+          "value": "Абортивный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аботт",
+          "value": "Аботт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абра",
+          "value": "Абра",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абракадабра",
+          "value": "Абракадабра",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абраксас",
+          "value": "Абраксас",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абрахам",
+          "value": "Абрахам",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абреже",
+          "value": "Абреже",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абрек",
+          "value": "Абрек",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абриколь",
+          "value": "Абриколь",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абрикосовый",
+          "value": "Абрикосовый",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абрикотин",
+          "value": "Абрикотин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абриола",
+          "value": "Абриола",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абрис",
+          "value": "Абрис",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аброгация",
+          "value": "Аброгация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аброма",
+          "value": "Аброма",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аброния",
+          "value": "Аброния",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсалон",
+          "value": "Абсалон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсида",
+          "value": "Абсида",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсинт",
+          "value": "Абсинт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолон",
+          "value": "Абсолон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолют",
+          "value": "Абсолют",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолютизация",
+          "value": "Абсолютизация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолютизм",
+          "value": "Абсолютизм",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолютист",
+          "value": "Абсолютист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолютистка",
+          "value": "Абсолютистка",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсолютный",
+          "value": "Абсолютный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсорбер",
+          "value": "Абсорбер",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абсорбция",
+          "value": "Абсорбция",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абстрактность",
+          "value": "Абстрактность",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абстракционист",
+          "value": "Абстракционист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абудаби",
+          "value": "Абудаби",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абуджа",
+          "value": "Абуджа",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абукельб",
+          "value": "Абукельб",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абулия",
+          "value": "Абулия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абура",
+          "value": "Абура",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абуриу",
+          "value": "Абуриу",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абусуа",
+          "value": "Абусуа",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абхаз",
+          "value": "Абхаз",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абхазец",
+          "value": "Абхазец",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абхазия",
+          "value": "Абхазия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Абшнит",
+          "value": "Абшнит",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авадзи",
+          "value": "Авадзи",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авадхара",
+          "value": "Авадхара",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авадхи",
+          "value": "Авадхи",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авалон",
+          "value": "Авалон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аваль",
+          "value": "Аваль",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авальман",
+          "value": "Авальман",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аванбек",
+          "value": "Аванбек",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авангард",
+          "value": "Авангард",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авангардист",
+          "value": "Авангардист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авандек",
+          "value": "Авандек",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аванза",
+          "value": "Аванза",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аванпорт",
+          "value": "Аванпорт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авансовый",
+          "value": "Авансовый",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авансцена",
+          "value": "Авансцена",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авантаж (579)",
+          "value": "Авантаж (579)",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авантитул",
+          "value": "Авантитул",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авантюрист",
+          "value": "Авантюрист",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авантюрность",
+          "value": "Авантюрность",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авантюрный",
+          "value": "Авантюрный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аварис",
+          "value": "Аварис",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аварский",
+          "value": "Аварский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авартана",
+          "value": "Авартана",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аватар",
+          "value": "Аватар",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авача",
+          "value": "Авача",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аваш",
+          "value": "Аваш",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авгалия",
+          "value": "Авгалия",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авгардент",
+          "value": "Авгардент",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авгий",
+          "value": "Авгий",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авгит",
+          "value": "Авгит",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авгура",
+          "value": "Авгура",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Август",
+          "value": "Август",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Августа",
+          "value": "Августа",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Августдор",
+          "value": "Августдор",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Августика",
+          "value": "Августика",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Августов",
+          "value": "Августов",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Августовский",
+          "value": "Августовский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авдотка",
+          "value": "Авдотка",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авдотья",
+          "value": "Авдотья",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авейде",
+          "value": "Авейде",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авелан",
+          "value": "Авелан",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авелгем",
+          "value": "Авелгем",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авелинский",
+          "value": "Авелинский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авентура",
+          "value": "Авентура",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авеню",
+          "value": "Авеню",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверилл",
+          "value": "Аверилл",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверинцев",
+          "value": "Аверинцев",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверкамп",
+          "value": "Аверкамп",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авермарт",
+          "value": "Авермарт",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверно",
+          "value": "Аверно",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверон",
+          "value": "Аверон",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверроэс",
+          "value": "Аверроэс",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверс",
+          "value": "Аверс",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверса",
+          "value": "Аверса",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Аверьяновский",
+          "value": "Аверьяновский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авеста",
+          "value": "Авеста",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авзония",
+          "value": "Авзония",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авиа",
+          "value": "Авиа",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Авиабилет",
+          "value": "Авиабилет",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "LFL",
+      "data": [
+        {
+          "label": 2019,
+          "value": 2019,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2020,
+          "value": 2020,
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "NonLFL",
+      "data": [
+        {
+          "label": 2019,
+          "value": 2019,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2020,
+          "value": 2020,
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    }
+  ],
+  "precision": {
+    "columnPrecision": 2,
+    "graphPrecision": 1,
+    "absFlag": 2,
+    "periodUnit1": 1,
+    "matchShop": "краснодар"
+  },
+  "data": []
+}

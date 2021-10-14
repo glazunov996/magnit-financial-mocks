@@ -1,0 +1,41 @@
+$txcm-consolidatedGraphLabels-width: 90px + 16px;
+$txcm-consolidatedGraphLabels-color: $txgl-gray-200;
+$txcm-consolidatedGraphLabels-background: $txgl-gray-500;
+$txcm-consolidatedGraphLabels-compact-height: 56px;
+
+.txcm-consolidatedGraphLabels {
+  position: absolute;
+  top: 0;
+  right: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: $txcm-consolidatedGraphLabels-width;
+  padding: 24px 0 24px 16px;
+  color: $txcm-consolidatedGraphLabels-color;
+  background: $txcm-consolidatedGraphLabels-background;
+  transition: padding $txgl-transition-default;
+
+  &-is-expanded {
+    @extend %txph-consolidatedGraphLabels-is-expanded;
+    padding: 24px 0 130px 16px;
+  }
+}
+
+.txcm-consolidatedGraphLabel {
+  display: flex;
+  align-items: center;
+  flex-grow: 0;
+  height: 0;
+
+  &-secondary {
+    opacity: 0;
+    transition: opacity $txgl-transition-default;
+
+    %txph-consolidatedGraphLabels-is-expanded & {
+      opacity: 1;
+    }
+  }
+}

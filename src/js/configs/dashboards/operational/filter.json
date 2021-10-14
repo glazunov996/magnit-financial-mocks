@@ -1,0 +1,117 @@
+[
+  {
+    "options":
+    [
+      {
+        "type": "picks",
+        "data": {
+          "name": "FRMT",
+          "pick": [],
+          "options": [{
+            "label": "ММ",
+            "value": "ММ"
+          }, {
+            "label": "МК",
+            "value": "МК"
+          }, {
+            "label": "МО",
+            "value": "МО"
+          }, {
+            "label": "МС",
+            "value": "МС"
+          }, {
+            "label": "МС+",
+            "value": "МС+"
+          }, {
+            "label": "МА",
+            "value": "МА"
+          }, {
+            "label": "СИА",
+            "value": "СИА"
+          }, {
+            "label": "HQ",
+            "value": "HQ"
+          }]
+        }
+      }, {
+        "type": "select",
+        "data": {
+          "label": "Подформ.",
+          "name": "opSubForm",
+          "pick": null
+        }
+      }
+    ]
+  }, {
+    "options":
+    [
+      {
+        "type": "controlledSelect",
+        "data": {
+          "label": "Округ",
+          "name": "opCounty",
+          "pick": []
+        }
+      }, {
+        "type": "controlledSelect",
+        "data": {
+          "label": "Фил./гр.",
+          "name": "opGroup",
+          "pick": []
+        }
+      }, {
+        "type": "controlledSelect",
+        "data": {
+          "label": "Подфил./подгр.",
+          "name": "opSubGroup",
+          "pick": []
+        }
+      }, {
+        "type": "controlledSelect",
+        "data": {
+          "label": "ТО",
+          "name": "opTO",
+          "pick": []
+        }
+      }
+    ]
+  }, {
+    "options":
+    [
+      {
+        "type": "select",
+        "data": {
+          "label": "Тов. кат.",
+          "name": "opCat",
+          "pick": null
+        }
+      }, {
+        "type": "select",
+        "data": {
+          "label": "Гр. 20/23",
+          "name": "opGroupNumber",
+          "pick": null
+        }
+      }
+    ]
+  }, {
+    "options":
+    [
+      {
+        "type": "select",
+        "data": {
+          "label": "ТУ",
+          "name": "opTU",
+          "pick": null
+        }
+      }, {
+        "type": "select",
+        "data": {
+          "label": "СВ",
+          "name": "opSV",
+          "pick": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+.txcm-consolidatedGraphLegend {
+  position: absolute;
+  z-index: 1;
+  right: 20px;
+  bottom: 50px;
+  left: -86px;
+  display: flex;
+  visibility: hidden;
+  align-content: flex-start;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  opacity: 0;
+  transition: opacity $txgl-transition-fast, visibility $txgl-transition-fast step-end;
+
+  &::before {
+    @include txmx-pseudo(relative);
+    order: 1;
+    width: 100%;
+  }
+
+  &-is-expanded {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity $txgl-transition-fast $txgl-transition-fast, visibility $txgl-transition-fast $txgl-transition-fast step-start;
+  }
+}
+
+$txcm-consolidatedGraphLegendItem-maxWidth: 170px;
+
+$txcm-consolidatedGraphLegendItemIcon-size: 6px;
+
+.txcm-consolidatedGraphLegendItem {
+  position: relative;
+  order: 2;
+  overflow: hidden;
+  box-sizing: border-box;
+  width: 40%;
+  max-width: $txcm-consolidatedGraphLegendItem-maxWidth;
+  padding: 0 0 0 14px;
+  margin: 0 0 4px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  &::before {
+    @include txmx-pseudo;
+    top: 0.75em;
+    left: 0;
+    flex-shrink: 0;
+    width: $txcm-consolidatedGraphLegendItemIcon-size;
+    height: $txcm-consolidatedGraphLegendItemIcon-size;
+    margin: ($txcm-consolidatedGraphLegendItemIcon-size / -2) 6px 0 0;
+  }
+
+  &:nth-child(1) {
+    order: -1;
+
+    &::before {
+      background: $txgl-consolidatedGraph-color1;
+    }
+  }
+
+  &:nth-child(2) {
+    order: -1;
+
+    &::before {
+      background: $txgl-consolidatedGraph-color2;
+    }
+  }
+
+  &:nth-child(3) {
+    &::before {
+      background: $txgl-consolidatedGraph-color3;
+    }
+  }
+
+  &:nth-child(4) {
+    &::before {
+      background: $txgl-consolidatedGraph-color4;
+    }
+  }
+}

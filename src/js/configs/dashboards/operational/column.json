@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Периоды",
+    "indicators": [
+      {
+        "label": "Факт",
+        "value": "dtd"
+      }, {
+        "label": "WTD",
+        "value": "wtd"
+      }, {
+        "label": "MTD",
+        "value": "mtd"
+      }, {
+        "label": "QTD",
+        "value": "qtd"
+      }, {
+        "label": "YTD",
+        "value": "ytd"
+      }
+    ]
+  }, {
+    "label": "Финансовые показатели",
+    "indicators": [
+      {
+        "label": "Выручка",
+        "value": "earnings"
+      }, {
+        "label": "Валовый доход",
+        "value": "grossIncome"
+      }, {
+        "label": "OPEX",
+        "value": "opex"
+      }, {
+        "label": "EBITDA",
+        "value": "ebitda"
+      }, {
+        "label": "Чистая прибыль",
+        "value": "netProfit"
+      }, {
+        "label": "Рабочий капитал",
+        "value": "workingCapital"
+      }
+    ]
+  }
+]

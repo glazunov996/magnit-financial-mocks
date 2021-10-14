@@ -1,0 +1,27 @@
+$txcm-consolidatedGraphHighlight-background: #26292d;
+
+.txcm-consolidatedGraph {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  padding: 24px 0;
+  transition: bottom $txgl-transition-default;
+
+  &::before {
+    @include txmx-pseudo;
+    top: 0;
+    width: var(--highlightWidth);
+    height: 100%;
+    background: $txcm-consolidatedGraphHighlight-background;
+    opacity: var(--highlightOpacity);
+    transform: translateX(var(--highlightPosition)) translateX(var(--highlightShift));
+  }
+
+  &-is-expanded {
+    bottom: 106px;
+  }
+}

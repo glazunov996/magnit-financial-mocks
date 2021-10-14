@@ -1,0 +1,363 @@
+[
+  {
+    "label": "Продажи",
+    "indicators": [
+      {
+        "id": "1",
+        "order": 0,
+        "label": "Средний Чек",
+        "url": "average-receipt",
+        "status": true
+      }, {
+        "id": "2",
+        "order": 1,
+        "label": "LFL Средний Чек",
+        "url": "lfl-average-receipt",
+        "status": true
+      }, {
+        "id": "3",
+        "order": 2,
+        "label": "Траффик, шт (чел.)",
+        "url": "traffic",
+        "status": true
+      }, {
+        "id": "4",
+        "order": 3,
+        "label": "LFL Трафик",
+        "url": "lfl-traffic",
+        "status": true
+      }, {
+        "id": "6",
+        "order": 5,
+        "label": "Front Margin %",
+        "url": "front-margin",
+        "status": true
+      }, {
+        "id": "10",
+        "order": 9,
+        "label": "Потери",
+        "url": "loses",
+        "status": true
+      }, {
+        "id": "17",
+        "order": 16,
+        "label": "Себестоимость",
+        "url": "cost",
+        "status": false
+      }, {
+        "id": "18",
+        "order": 17,
+        "label": "Ком. Маржа",
+        "url": "commercial-margin",
+        "status": false
+      }, {
+        "id": "19",
+        "order": 18,
+        "label": "РТО",
+        "url": "rto",
+        "status": false
+      }, {
+        "id": "19_1",
+        "order": 19,
+        "label": "РТО, руб",
+        "url": "rto-rub",
+        "status": false
+      }, {
+        "id": "19_2",
+        "order": 20,
+        "label": "Доля РТО по Мониторингу %",
+        "url": "rto-monitoring-share",
+        "status": false
+      }, {
+        "id": "19_3",
+        "order": 21,
+        "label": "Доля РТО по Картам Лояльности %",
+        "url": "rto-loyalty-cards",
+        "status": false
+      }, {
+        "id": "19_4",
+        "order": 22,
+        "label": "Доля РТО по Распродажам %",
+        "url": "rto-sales",
+        "status": false
+      }, {
+        "id": "19_5",
+        "order": 23,
+        "label": "Доля РТО по Распродажам % YoY",
+        "url": "rto-sales-yoy",
+        "status": false
+      }, {
+        "id": "19_7",
+        "order": 25,
+        "label": "Доля РТО по Уценке по срокам годности %",
+        "url": "rto-expiration-markdown",
+        "status": false
+      }, {
+        "id": "20",
+        "order": 26,
+        "label": "ФМ%",
+        "url": "fm",
+        "status": false
+      }, {
+        "id": "20_1",
+        "order": 27,
+        "label": "ФМ% (влияние Показатель 01)",
+        "url": "fm-influence-indicator",
+        "status": false
+      }, {
+        "id": "20_2",
+        "order": 28,
+        "label": "ФМ% (влияние Регулярных)",
+        "url": "fm-influence-regulars",
+        "status": false
+      }, {
+        "id": "20_3",
+        "order": 29,
+        "label": "ФМ% (влияние Нерегулярных)",
+        "url": "fm-influence-irregulars",
+        "status": false
+      }, {
+        "id": "20_4",
+        "order": 30,
+        "label": "ФМ% (влияние Основного Промо)",
+        "url": "fm-influence-promo",
+        "status": false
+      }, {
+        "id": "20_5",
+        "order": 31,
+        "label": "ФМ% (влияние Распродаж)",
+        "url": "fm-influence-sales",
+        "status": false
+      }, {
+        "id": "20_6",
+        "order": 32,
+        "label": "ФМ% (влияние Карт и Прочих Нерегулярных)",
+        "url": "fm-influence-cards",
+        "status": false
+      }, {
+        "id": "21",
+        "order": 33,
+        "label": "Ассортимент",
+        "url": "assortment",
+        "status": false
+      }, {
+        "id": "22",
+        "order": 34,
+        "label": "Кол-во СКЮ в ассортименте",
+        "url": "sko-count",
+        "status": false
+      }, {
+        "id": "23",
+        "order": 35,
+        "label": "Среднее Количество Товаров в Чеке (Комплексность)",
+        "url": "receipt-average-count",
+        "status": false
+      }, {
+        "id": "24",
+        "order": 36,
+        "label": "Кол-во Закрытых объектов",
+        "url": "clossed",
+        "status": false
+      }, {
+        "id": "25",
+        "order": 37,
+        "label": "Влияние на Ср. Чек ",
+        "url": "influence-average-receipt",
+        "status": false
+      }, {
+        "id": "26",
+        "order": 38,
+        "label": "Вклад категории в инфляцию ПрЦ за счет изменения маржинальности",
+        "url": "category-inflation",
+        "status": false
+      }, {
+        "id": "27",
+        "order": 39,
+        "label": "Вклад категории в комплексность",
+        "url": "category-complexity",
+        "status": false
+      }, {
+        "id": "28",
+        "order": 40,
+        "label": "Инфляция",
+        "url": "inflation",
+        "status": false
+      }, {
+        "id": "29",
+        "order": 41,
+        "label": "ТЦ МИКС",
+        "url": "tc-miks",
+        "status": false
+      }
+    ]
+  }, {
+    "label": "Промо",
+    "indicators": [
+      {
+        "id": "7",
+        "order": 6,
+        "label": "Доля Промо %",
+        "url": "promo-share",
+        "status": true
+      }, {
+        "id": "16",
+        "order": 15,
+        "label": "Продажи Промо",
+        "url": "promo-sales",
+        "status": false
+      }, {
+        "id": "30",
+        "order": 42,
+        "label": "Доступность по Остаткам Промо",
+        "url": "promo-availability",
+        "status": false
+      }, {
+        "id": "31",
+        "order": 43,
+        "label": "Оборот Промо",
+        "url": "promo-turnover",
+        "status": false
+      }
+    ]
+  }, {
+    "label": "Потери",
+    "indicators": [
+      {
+        "id": "11",
+        "order": 10,
+        "label": "Потери к выручке",
+        "url": "loss-revenue",
+        "status": false
+      }, {
+        "id": "12",
+        "order": 11,
+        "label": "Потери в себестоимости",
+        "url": "cost-loss",
+        "status": false
+      }, {
+        "id": "13",
+        "order": 12,
+        "label": "Потери АБС",
+        "url": "losses-abs",
+        "status": false
+      }, {
+        "id": "14",
+        "order": 13,
+        "label": "Потери по типу",
+        "url": "loss-type",
+        "status": false
+      }, {
+        "id": "15",
+        "order": 14,
+        "label": "Потери, шт.",
+        "url": "loss-count",
+        "status": false
+      }
+    ]
+  }, {
+    "label": "Товарные запасы",
+    "indicators": [
+      {
+        "id": "8",
+        "order": 7,
+        "label": "Товарные Запасы",
+        "url": "inventroy",
+        "status": true
+      }, {
+        "id": "9",
+        "order": 8,
+        "label": "Уровень Сервиса РЦ",
+        "url": "service-level",
+        "status": true
+      }, {
+        "id": "32",
+        "order": 44,
+        "label": "Доступность по остаткам",
+        "url": "leftovers-availability",
+        "status": false
+      }, {
+        "id": "33",
+        "order": 45,
+        "label": "Доступность по продажам",
+        "url": "sales-availability",
+        "status": false
+      }, {
+        "id": "34",
+        "order": 46,
+        "label": "Оборачиваемость ТЗ",
+        "url": "tz-turnover",
+        "status": false
+      }, {
+        "id": "35",
+        "order": 47,
+        "label": "Уровень Сервиса Поставщиков",
+        "url": "suppliers-service-level",
+        "status": false
+      }, {
+        "id": "36",
+        "order": 48,
+        "label": "Остатки (товарный запас) руб.",
+        "url": "leftovers",
+        "status": false
+      }
+    ]
+  }, {
+    "label": "Торговые объекты",
+    "indicators": [
+      {
+        "id": "5",
+        "order": 4,
+        "label": "Кол-во объектов",
+        "url": "objects",
+        "status": true
+      }, {
+        "id": "19_6",
+        "order": 24,
+        "label": "Доля РТО по Уценке %",
+        "url": "rto-markdown",
+        "status": false
+      }
+    ]
+  }, {
+    "label": "Персонал",
+    "indicators": [
+      {
+        "id": "37",
+        "order": 49,
+        "label": "Штатная численность",
+        "url": "staff",
+        "status": false
+      }, {
+        "id": "38",
+        "order": 50,
+        "label": "Фактическая численность",
+        "url": "actual-staff-number",
+        "status": false
+      }, {
+        "id": "39",
+        "order": 51,
+        "label": "Перештат",
+        "url": "overstaff",
+        "status": false
+      }, {
+        "id": "40",
+        "order": 52,
+        "label": "Укомплектованность",
+        "url": "staffing",
+        "status": false
+      }, {
+        "id": "41",
+        "order": 53,
+        "label": "Текучесть",
+        "url": "staff-turnover",
+        "status": false
+      }, {
+        "id": "42",
+        "order": 54,
+        "label": "ФОТ",
+        "url": "fot",
+        "status": false
+      }
+    ]
+  }
+]

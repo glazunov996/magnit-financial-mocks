@@ -1,0 +1,294 @@
+{
+  "rows": [
+    {
+      "name": "ГМ",
+      "column": {
+        "factPercent": {
+          "qText": "763 513 566.48",
+          "qNum": 763513566.4833152,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "-99 372 234.61",
+          "qNum": -99372234.61352062,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-182 827 961.87",
+          "qNum": -182827961.86773336,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "ММ",
+      "column": {
+        "factPercent": {
+          "qText": "8 787 123 957.18",
+          "qNum": 8787123957.178171,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "3 846 411 464.58",
+          "qNum": 3846411464.5844145,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "1 729 954 323.17",
+          "qNum": 1729954323.1711102,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "МК",
+      "column": {
+        "factPercent": {
+          "qText": "1 884 139 973.90",
+          "qNum": 1884139973.8951504,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "483 477 345.58",
+          "qNum": 483477345.57990193,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "185 956 597.60",
+          "qNum": 185956597.6010902,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "МА",
+      "column": {
+        "factPercent": {
+          "qText": "-23 129 292.43",
+          "qNum": -23129292.42639939,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "78 790 844.59",
+          "qNum": 78790844.58675872,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-54 691 826.34",
+          "qNum": -54691826.34337042,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "1",
+        "qNum": 1,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "ПР",
+      "column": {
+        "factPercent": {
+          "qText": "7 559 615.19",
+          "qNum": 7559615.190046581,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "4 896 066.57",
+          "qNum": 4896066.571646567,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "6 160 907.73",
+          "qNum": 6160907.725825581,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Без формата",
+      "column": {
+        "factPercent": {
+          "qText": "-2 765 246 742.35",
+          "qNum": -2765246742.350606,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "-583 031 826.91",
+          "qNum": -583031826.910418,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-127 452 727.22",
+          "qNum": -127452727.22229576,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "1",
+        "qNum": 1,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "МО",
+      "column": {
+        "factPercent": {
+          "qText": "29 319 150.54",
+          "qNum": 29319150.544568498,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "24 220 775.77",
+          "qNum": 24220775.767360818,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-9 852 545.88",
+          "qNum": -9852545.880026456,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "1",
+        "qNum": 1,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "МС",
+      "column": {
+        "factPercent": {
+          "qText": "167 817 377.16",
+          "qNum": 167817377.15978482,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "61 683 655.87",
+          "qNum": 61683655.86676854,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-49 249 738.21",
+          "qNum": -49249738.20911506,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "СИА",
+      "column": {
+        "factPercent": {
+          "qText": "-48 324 598.25",
+          "qNum": -48324598.24622256,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "16 640 077.73",
+          "qNum": 16640077.725704692,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-830 596.49",
+          "qNum": -830596.4947150424,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "1",
+        "qNum": 1,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "ВМ",
+      "column": {
+        "factPercent": {
+          "qText": "167 371.75",
+          "qNum": 167371.74803,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "1 940 929.45",
+          "qNum": 1940929.4519799985,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "175 371.75",
+          "qNum": 175371.74803,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    }
+  ]
+}

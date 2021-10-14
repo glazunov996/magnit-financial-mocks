@@ -1,0 +1,236 @@
+{
+  "rows": [
+    {
+      "name": "Волжский",
+      "column": {
+        "factPercent": {
+          "qText": "-2 357 790.51",
+          "qNum": -2357790.514942795,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "14 171 136.08",
+          "qNum": 14171136.078539148,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-10 579 159.81",
+          "qNum": -10579159.807134807,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Центральный",
+      "column": {
+        "factPercent": {
+          "qText": "-1 441 996.75",
+          "qNum": -1441996.754323769,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "11 740 989.23",
+          "qNum": 11740989.234955842,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-969 636.16",
+          "qNum": -969636.1555677748,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Уральский",
+      "column": {
+        "factPercent": {
+          "qText": "-8 903 508.68",
+          "qNum": -8903508.67674539,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "11 684 169.47",
+          "qNum": 11684169.465013439,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-15 374 239.58",
+          "qNum": -15374239.581237406,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Московский",
+      "column": {
+        "factPercent": {
+          "qText": "-7 824 342.29",
+          "qNum": -7824342.285947561,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "13 954 670.23",
+          "qNum": 13954670.232597351,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-3 294 733.96",
+          "qNum": -3294733.96076856,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Сибирский",
+      "column": {
+        "factPercent": {
+          "qText": "-750 131.07",
+          "qNum": -750131.0682405762,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "8 878 989.64",
+          "qNum": 8878989.640649816,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "2 026 200.68",
+          "qNum": 2026200.6815054242,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Кавказский",
+      "column": {
+        "factPercent": {
+          "qText": "-222 083.47",
+          "qNum": -222083.46570284825,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "4 604 238.29",
+          "qNum": 4604238.292007865,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-3 672 600.77",
+          "qNum": -3672600.7706438606,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Южный",
+      "column": {
+        "factPercent": {
+          "qText": "884 387.99",
+          "qNum": 884387.986594866,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "9 744 910.65",
+          "qNum": 9744910.654741704,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-22 709 522.44",
+          "qNum": -22709522.44454813,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    },
+    {
+      "name": "Северо-Западный",
+      "column": {
+        "factPercent": {
+          "qText": "-2 513 827.65",
+          "qNum": -2513827.6470913184,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsPpPercent": {
+          "qText": "4 011 740.99",
+          "qNum": 4011740.9882535436,
+          "qElemNumber": 0,
+          "qState": "L"
+        },
+        "vsBudgetPercent": {
+          "qText": "-118 134.30",
+          "qNum": -118134.30497531546,
+          "qElemNumber": 0,
+          "qState": "L"
+        }
+      },
+      "arrow": {
+        "qText": "0",
+        "qNum": 0,
+        "qElemNumber": 0,
+        "qState": "L"
+      }
+    }
+  ]
+}

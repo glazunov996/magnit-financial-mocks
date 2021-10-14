@@ -1,0 +1,58 @@
+{
+  "qInitialDataFetch": [
+    {
+        "qHeight": 1000,
+        "qWidth": 9
+    }
+  ],
+  "qDimensions": [
+      {
+          "qLabel": "FRMT",
+          "qLibraryId": "jeY",
+          "qNullSuppression": true
+      },
+      {
+          "qLabel": "ПериодИзмерение_id",
+          "qLibraryId": "0a2456a6-3694-468d-b28c-778bac05b6cb",
+          "qNullSuppression": true,
+          "qDef" : {
+              "qSortCriterias": [{
+                  "qSortByNumeric": 1
+              }]
+          }
+      },
+      {
+          "qLabel": "ПериодИзмерение",
+          "qLibraryId": "sAVanm",
+          "qNullSuppression": true
+      }
+
+  ],
+  "qMeasures": [			
+      {
+          "qLabel": "ГрафикПоФорматам.vs Факт п-п",
+          "qLibraryId": "581c5e77-56d6-4c2d-a217-001798b2ea19"
+      },
+      {
+          "qLabel": "ГрафикПоФорматам.vs Бюждет",
+          "qLibraryId": "59428fa3-4712-4ffa-95b6-694d299e3038"
+      },
+      {
+          "qLabel": "ГрафикПоФорматам.vs Факт п-п_выр_%",
+          "qLibraryId": "1b563a84-5857-41ca-b855-428a8852bf1a"
+      },
+      {
+          "qLabel": "ГрафикПоФорматам.vs Бюждет_выр_%",
+          "qLibraryId": "d870f634-2d86-4637-9c2d-4d91894bee49"
+      },
+      {
+          "qLabel": "МераДляСбросаПериодаПриВыбореLFL",
+          "qLibraryId": "bWVDN"
+      }
+  ],
+  "qSuppressZero": true,
+  "qSuppressMissing": true,
+  "qMode": "S",
+  "qInterColumnSortOrder": [],
+  "qStateName": "$"
+}

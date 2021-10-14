@@ -1,0 +1,111 @@
+.txcm-consolidatedGraphBar {
+  position: relative;
+  flex-grow: 1;
+  flex-basis: 0;
+  transform: translateX(var(--highlightShift));
+
+  &:last-child {
+    position: absolute;
+    top: 24px;
+    bottom: 24px;
+    left: 100%;
+    width: var(--highlightWidth);
+  }
+
+  &-is-expanded {
+    @extend %txph-consolidatedGraphBar-is-expanded;
+  }
+}
+
+$txcm-consolidatedGraphBarComponent-width: 24px;
+$txcm-consolidatedGraphBarComponent-dark-color: $txgl-gray-500;
+$txcm-consolidatedGraphBarComponent-light-color: $txgl-white-900;
+
+.txcm-consolidatedGraphBarComponent {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: $txcm-consolidatedGraphBarComponent-width;
+  height: 50%;
+  margin: 0 0 0 ($txcm-consolidatedGraphBarComponent-width / -2);
+
+  &::before {
+    @include txmx-fontSize(9px);
+    position: absolute;
+    top: 100%;
+    content: attr(data-value);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding: 3px 0 0;
+    border-radius: 2px 2px 0 0;
+    color: transparent;
+    line-height: 1;
+    transform: translateY(var(--valueScale));
+  }
+
+  &-is-order1 {
+    &::before {
+      background: $txgl-consolidatedGraph-color1;
+    }
+  }
+
+  &-is-order2 {
+    &::before {
+      background: $txgl-consolidatedGraph-color2;
+    }
+  }
+
+  &-is-order3 {
+    &::before {
+      background: $txgl-consolidatedGraph-color3;
+    }
+  }
+
+  &-is-order4 {
+    &::before {
+      background: $txgl-consolidatedGraph-color4;
+    }
+  }
+
+  &-is-negative {
+    top: 50%;
+    flex-direction: column-reverse;
+
+    &::before {
+      top: auto;
+      bottom: 100%;
+      flex-direction: column-reverse;
+      padding: 0 0 3px;
+      border-radius: 0 0 2px 2px;
+    }
+  }
+
+  %txph-consolidatedGraphBar-is-expanded & {
+    &-is-order1,
+    &-is-order4 {
+      &::before {
+        color: $txcm-consolidatedGraphBarComponent-light-color;
+      }
+    }
+
+    &-is-order2,
+    &-is-order3 {
+      &::before {
+        color: $txcm-consolidatedGraphBarComponent-dark-color;
+      }
+    }
+
+    &-is-invisible {
+      &::before {
+        color: transparent;
+      }
+    }
+  }
+}

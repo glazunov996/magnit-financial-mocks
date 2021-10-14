@@ -1,0 +1,48 @@
+$txcm-consolidatedGraphToggle-height: 46px;
+$txcm-consolidatedGraphToggle-color: $txgl-gray-100;
+$txcm-consolidatedGraphToggle-hover-color: $txgl-white-900;
+
+.txcm-consolidatedGraphToggle {
+  @include txmx-fontSize(12px);
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  width: calc(100% + 106px);
+  height: $txcm-consolidatedGraphToggle-height;
+  margin: ($txcm-consolidatedGraphToggle-height / -2) 0 0;
+  color: $txcm-consolidatedGraphToggle-color;
+  background: none;
+  transform: translateY(33px);
+  transition: transform $txgl-transition-default;
+
+  &:hover,
+  &:active {
+    color: $txcm-consolidatedGraphToggle-hover-color;
+  }
+
+  &-is-active {
+    @extend %txph-consolidatedGraphToggle-is-active;
+    transform: translateY(-25px);
+  }
+}
+
+$txcm-consolidatedGraphToggleIcon-width: 5px;
+$txcm-consolidatedGraphToggleIcon-height: 7px;
+
+.txcm-consolidatedGraphToggleIcon {
+  width: $txcm-consolidatedGraphToggleIcon-width;
+  height: $txcm-consolidatedGraphToggleIcon-height;
+  margin: 0 9px 0 0;
+  transform: rotate(-90deg);
+  transition: transform $txgl-transition-fast;
+  fill: currentColor;
+
+  %txph-consolidatedGraphToggle-is-active & {
+    transform: rotate(90deg);
+  }
+}

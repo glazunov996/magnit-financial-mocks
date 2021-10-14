@@ -1,0 +1,2249 @@
+{
+  "dates": [
+    [
+      {
+        "label": "201901",
+        "year": 2019,
+        "month": 1,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201902",
+        "year": 2019,
+        "month": 2,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201903",
+        "year": 2019,
+        "month": 3,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201904",
+        "year": 2019,
+        "month": 4,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201905",
+        "year": 2019,
+        "month": 5,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201906",
+        "year": 2019,
+        "month": 6,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201907",
+        "year": 2019,
+        "month": 7,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201908",
+        "year": 2019,
+        "month": 8,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201909",
+        "year": 2019,
+        "month": 9,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201910",
+        "year": 2019,
+        "month": 10,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201911",
+        "year": 2019,
+        "month": 11,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201912",
+        "year": 2019,
+        "month": 12,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202001",
+        "year": 2020,
+        "month": 1,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202002",
+        "year": 2020,
+        "month": 2,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202003",
+        "year": 2020,
+        "month": 3,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202004",
+        "year": 2020,
+        "month": 4,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202005",
+        "year": 2020,
+        "month": 5,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202006",
+        "year": 2020,
+        "month": 6,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202007",
+        "year": 2020,
+        "month": 7,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202008",
+        "year": 2020,
+        "month": 8,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202009",
+        "year": 2020,
+        "month": 9,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202010",
+        "year": 2020,
+        "month": 10,
+        "picked": true,
+        "disabled": false
+      }
+    ],
+    [
+      {
+        "label": "201901",
+        "year": 2019,
+        "month": 1,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201902",
+        "year": 2019,
+        "month": 2,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201903",
+        "year": 2019,
+        "month": 3,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201904",
+        "year": 2019,
+        "month": 4,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201905",
+        "year": 2019,
+        "month": 5,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201906",
+        "year": 2019,
+        "month": 6,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201907",
+        "year": 2019,
+        "month": 7,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201908",
+        "year": 2019,
+        "month": 8,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201909",
+        "year": 2019,
+        "month": 9,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201910",
+        "year": 2019,
+        "month": 10,
+        "picked": true,
+        "disabled": false
+      },
+      {
+        "label": "201911",
+        "year": 2019,
+        "month": 11,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "201912",
+        "year": 2019,
+        "month": 12,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202001",
+        "year": 2020,
+        "month": 1,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202002",
+        "year": 2020,
+        "month": 2,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202003",
+        "year": 2020,
+        "month": 3,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202004",
+        "year": 2020,
+        "month": 4,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202005",
+        "year": 2020,
+        "month": 5,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202006",
+        "year": 2020,
+        "month": 6,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202007",
+        "year": 2020,
+        "month": 7,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202008",
+        "year": 2020,
+        "month": 8,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202009",
+        "year": 2020,
+        "month": 9,
+        "picked": false,
+        "disabled": true
+      },
+      {
+        "label": "202010",
+        "year": 2020,
+        "month": 10,
+        "picked": false,
+        "disabled": true
+      }
+    ]
+  ],
+  "filter": [
+    {
+      "key": "FRMT",
+      "data": [
+        {
+          "label": "ММ",
+          "value": "ММ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК",
+          "value": "МК",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ГМ",
+          "value": "ГМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МС",
+          "value": "МС",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МО",
+          "value": "МО",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА",
+          "value": "МА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ПР",
+          "value": "ПР",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ВМ",
+          "value": "ВМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Без формата",
+          "value": "Без формата",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "SUBFRMT",
+      "data": [
+        {
+          "label": "ММ",
+          "value": "ММ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК",
+          "value": "МК",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ГМ",
+          "value": "ГМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МС",
+          "value": "МС",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МО",
+          "value": "МО",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА",
+          "value": "МА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ПР",
+          "value": "ПР",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ВМ",
+          "value": "ВМ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Без формата",
+          "value": "Без формата",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Округ",
+      "data": [
+        {
+          "label": "Администрация",
+          "value": "Администрация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Волжский",
+          "value": "Волжский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Кавказский",
+          "value": "Кавказский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Московский",
+          "value": "Московский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Северо-Западный",
+          "value": "Северо-Западный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "СИА",
+          "value": "СИА",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Сибирский",
+          "value": "Сибирский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Уральский",
+          "value": "Уральский",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "Центральный",
+          "value": "Центральный",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ЦФО",
+          "value": "ЦФО",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "ЦФО-1",
+          "value": "ЦФО-1",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "Южный",
+          "value": "Южный",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Филиал",
+      "data": [
+        {
+          "label": "Администрация",
+          "value": "Администрация",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Волжского",
+          "value": "БФ Волжского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Кавказского",
+          "value": "БФ Кавказского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Московского",
+          "value": "БФ Московского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Северо-Западного",
+          "value": "БФ Северо-Западного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Сибирского",
+          "value": "БФ Сибирского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Уральского",
+          "value": "БФ Уральского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Центрального",
+          "value": "БФ Центрального",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "БФ Южного",
+          "value": "БФ Южного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Волжского",
+          "value": "МА Волжского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Кавказского",
+          "value": "МА Кавказского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Московского",
+          "value": "МА Московского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Северо-Западного",
+          "value": "МА Северо-Западного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Сибирского",
+          "value": "МА Сибирского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Уральского",
+          "value": "МА Уральского",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Центрального",
+          "value": "МА Центрального",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МА Южного",
+          "value": "МА Южного",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Армавир",
+          "value": "МК Армавир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Архангельск",
+          "value": "МК Архангельск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Астрахань",
+          "value": "МК Астрахань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Балаково",
+          "value": "МК Балаково",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Барнаул",
+          "value": "МК Барнаул",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Белгород Восток",
+          "value": "МК Белгород Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Белгород Запад",
+          "value": "МК Белгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Березники",
+          "value": "МК Березники",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Брянск",
+          "value": "МК Брянск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Великий Новгород",
+          "value": "МК Великий Новгород",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Владикавказ",
+          "value": "МК Владикавказ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Владимир Восток",
+          "value": "МК Владимир Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Владимир Запад",
+          "value": "МК Владимир Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгоград Восток",
+          "value": "МК Волгоград Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгоград Запад",
+          "value": "МК Волгоград Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волгодонск",
+          "value": "МК Волгодонск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Волжский общ.",
+          "value": "МК Волжский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Вологда",
+          "value": "МК Вологда",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Воронеж Север",
+          "value": "МК Воронеж Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Воронеж Юг",
+          "value": "МК Воронеж Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Екатеринбург Восток",
+          "value": "МК Екатеринбург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Екатеринбург Запад",
+          "value": "МК Екатеринбург Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Иваново",
+          "value": "МК Иваново",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ижевск Север",
+          "value": "МК Ижевск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ижевск Юг",
+          "value": "МК Ижевск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Кавказский общ.",
+          "value": "МК Кавказский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Казань Восток",
+          "value": "МК Казань Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Казань Запад",
+          "value": "МК Казань Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Калуга",
+          "value": "МК Калуга",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Камышин",
+          "value": "МК Камышин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Каневская",
+          "value": "МК Каневская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Кемерово",
+          "value": "МК Кемерово",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Киров",
+          "value": "МК Киров",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Краснодар Восток",
+          "value": "МК Краснодар Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Краснодар Запад",
+          "value": "МК Краснодар Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Красноярск",
+          "value": "МК Красноярск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Курган",
+          "value": "МК Курган",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Курск",
+          "value": "МК Курск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Липецк",
+          "value": "МК Липецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Магнитогорск",
+          "value": "МК Магнитогорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 1",
+          "value": "МК Москва 1",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 2",
+          "value": "МК Москва 2",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 3",
+          "value": "МК Москва 3",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 4",
+          "value": "МК Москва 4",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 5",
+          "value": "МК Москва 5",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Москва 6",
+          "value": "МК Москва 6",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Московский общ.",
+          "value": "МК Московский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Мурманск",
+          "value": "МК Мурманск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Набережные Челны Восток",
+          "value": "МК Набережные Челны Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Набережные Челны Запад",
+          "value": "МК Набережные Челны Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Новгород Запад",
+          "value": "МК Нижний Новгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Новгород Север",
+          "value": "МК Нижний Новгород Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Новгород Юг",
+          "value": "МК Нижний Новгород Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Нижний Тагил",
+          "value": "МК Нижний Тагил",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новокузнецк",
+          "value": "МК Новокузнецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новороссийск Восток",
+          "value": "МК Новороссийск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новороссийск Запад",
+          "value": "МК Новороссийск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Новосибирск",
+          "value": "МК Новосибирск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Омск Восток",
+          "value": "МК Омск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Омск Запад",
+          "value": "МК Омск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Орел",
+          "value": "МК Орел",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Оренбург",
+          "value": "МК Оренбург",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Орск",
+          "value": "МК Орск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пенза",
+          "value": "МК Пенза",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пермь Восток",
+          "value": "МК Пермь Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пермь Запад",
+          "value": "МК Пермь Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Петрозаводск",
+          "value": "МК Петрозаводск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Псков",
+          "value": "МК Псков",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Пятигорск",
+          "value": "МК Пятигорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ростов-на-Дону Восток",
+          "value": "МК Ростов-на-Дону Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ростов-на-Дону Запад",
+          "value": "МК Ростов-на-Дону Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Рязань",
+          "value": "МК Рязань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Самара Восток",
+          "value": "МК Самара Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Самара Запад",
+          "value": "МК Самара Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Восток",
+          "value": "МК Санкт-Петербург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Север",
+          "value": "МК Санкт-Петербург Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Центр",
+          "value": "МК Санкт-Петербург Центр",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Санкт-Петербург Юг",
+          "value": "МК Санкт-Петербург Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саранск",
+          "value": "МК Саранск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саратов Восток",
+          "value": "МК Саратов Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Саратов Запад",
+          "value": "МК Саратов Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Северо-Западный общ.",
+          "value": "МК Северо-Западный общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Сибирский общ.",
+          "value": "МК Сибирский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Смоленск",
+          "value": "МК Смоленск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сочи",
+          "value": "МК Сочи",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ставрополь",
+          "value": "МК Ставрополь",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Стерлитамак",
+          "value": "МК Стерлитамак",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сургут",
+          "value": "МК Сургут",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Сыктывкар",
+          "value": "МК Сыктывкар",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тамбов",
+          "value": "МК Тамбов",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тверь Восток",
+          "value": "МК Тверь Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тверь Запад",
+          "value": "МК Тверь Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тольятти",
+          "value": "МК Тольятти",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тула",
+          "value": "МК Тула",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Тюмень",
+          "value": "МК Тюмень",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ульяновск",
+          "value": "МК Ульяновск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Уральский общ.",
+          "value": "МК Уральский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Уфа Восток",
+          "value": "МК Уфа Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Уфа Запад",
+          "value": "МК Уфа Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Центральный общ.",
+          "value": "МК Центральный общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Чебоксары Север",
+          "value": "МК Чебоксары Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Чебоксары Юг",
+          "value": "МК Чебоксары Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Челябинск Север",
+          "value": "МК Челябинск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Челябинск Юг",
+          "value": "МК Челябинск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Шахты",
+          "value": "МК Шахты",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Южный общ.",
+          "value": "МК Южный общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "МК Ярославль Восток",
+          "value": "МК Ярославль Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "МК Ярославль Запад",
+          "value": "МК Ярославль Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Армавир",
+          "value": "ММ Армавир",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Архангельск",
+          "value": "ММ Архангельск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Астрахань",
+          "value": "ММ Астрахань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Балаково",
+          "value": "ММ Балаково",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Барнаул",
+          "value": "ММ Барнаул",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Белгород Восток",
+          "value": "ММ Белгород Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Белгород Запад",
+          "value": "ММ Белгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Березники",
+          "value": "ММ Березники",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Брянск",
+          "value": "ММ Брянск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Великий Новгород",
+          "value": "ММ Великий Новгород",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Владикавказ",
+          "value": "ММ Владикавказ",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Владимир Восток",
+          "value": "ММ Владимир Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Владимир Запад",
+          "value": "ММ Владимир Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгоград Восток",
+          "value": "ММ Волгоград Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгоград Запад",
+          "value": "ММ Волгоград Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волгодонск",
+          "value": "ММ Волгодонск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Волжский общ.",
+          "value": "ММ Волжский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "ММ Вологда",
+          "value": "ММ Вологда",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Воронеж Север",
+          "value": "ММ Воронеж Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Воронеж Юг",
+          "value": "ММ Воронеж Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Екатеринбург Восток",
+          "value": "ММ Екатеринбург Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Екатеринбург Запад",
+          "value": "ММ Екатеринбург Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Иваново",
+          "value": "ММ Иваново",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ижевск Север",
+          "value": "ММ Ижевск Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ижевск Юг",
+          "value": "ММ Ижевск Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Кавказский общ.",
+          "value": "ММ Кавказский общ.",
+          "picked": false,
+          "disabled": true
+        },
+        {
+          "label": "ММ Казань Восток",
+          "value": "ММ Казань Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Казань Запад",
+          "value": "ММ Казань Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Калуга",
+          "value": "ММ Калуга",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Камышин",
+          "value": "ММ Камышин",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Каневская",
+          "value": "ММ Каневская",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Кемерово",
+          "value": "ММ Кемерово",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Киров",
+          "value": "ММ Киров",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Краснодар Восток",
+          "value": "ММ Краснодар Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Краснодар Запад",
+          "value": "ММ Краснодар Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Красноярск",
+          "value": "ММ Красноярск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Курган",
+          "value": "ММ Курган",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Курск",
+          "value": "ММ Курск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Липецк",
+          "value": "ММ Липецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Магнитогорск",
+          "value": "ММ Магнитогорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 1",
+          "value": "ММ Москва 1",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 2",
+          "value": "ММ Москва 2",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 3",
+          "value": "ММ Москва 3",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 4",
+          "value": "ММ Москва 4",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 5",
+          "value": "ММ Москва 5",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Москва 6",
+          "value": "ММ Москва 6",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Московский общ.",
+          "value": "ММ Московский общ.",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Мурманск",
+          "value": "ММ Мурманск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Набережные Челны Восток",
+          "value": "ММ Набережные Челны Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Набережные Челны Запад",
+          "value": "ММ Набережные Челны Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Новгород Запад",
+          "value": "ММ Нижний Новгород Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Новгород Север",
+          "value": "ММ Нижний Новгород Север",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Новгород Юг",
+          "value": "ММ Нижний Новгород Юг",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Нижний Тагил",
+          "value": "ММ Нижний Тагил",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новокузнецк",
+          "value": "ММ Новокузнецк",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новороссийск Восток",
+          "value": "ММ Новороссийск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новороссийск Запад",
+          "value": "ММ Новороссийск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Новосибирск",
+          "value": "ММ Новосибирск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Омск Восток",
+          "value": "ММ Омск Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Омск Запад",
+          "value": "ММ Омск Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Орел",
+          "value": "ММ Орел",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Оренбург",
+          "value": "ММ Оренбург",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Орск",
+          "value": "ММ Орск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пенза",
+          "value": "ММ Пенза",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пермь Восток",
+          "value": "ММ Пермь Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пермь Запад",
+          "value": "ММ Пермь Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Петрозаводск",
+          "value": "ММ Петрозаводск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Псков",
+          "value": "ММ Псков",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Пятигорск",
+          "value": "ММ Пятигорск",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ростов-на-Дону Восток",
+          "value": "ММ Ростов-на-Дону Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Ростов-на-Дону Запад",
+          "value": "ММ Ростов-на-Дону Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Рязань",
+          "value": "ММ Рязань",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Самара Восток",
+          "value": "ММ Самара Восток",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Самара Запад",
+          "value": "ММ Самара Запад",
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "ММ Санкт-Петербург Восток",
+          "value": "ММ Санкт-Петербург Восток",
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "Магазин",
+      "data": []
+    },
+    {
+      "key": "LFL",
+      "data": [
+        {
+          "label": 2019,
+          "value": 2019,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2020,
+          "value": 2020,
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "key": "NonLFL",
+      "data": [
+        {
+          "label": 2019,
+          "value": 2019,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2019,
+          "value": 2019,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2020,
+          "value": 2020,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": 2020,
+          "value": 2020,
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    }
+  ],
+  "precision": {
+    "columnPrecision": 2,
+    "graphPrecision": 1,
+    "absFlag": 2,
+    "periodUnit1": 1,
+    "matchShop": "краснодар"
+  },
+  "data": {
+    "results": [
+      {
+        "id": 7510,
+        "name": "-77.76%",
+        "column1": [
+          {
+            "factPrevYearPrecent": {
+              "qText": "-77.76%",
+              "qNum": -0.7775677596325336,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "budgetPercent": {
+              "qText": "-76.87%",
+              "qNum": -0.7687031208510798,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "factCurrYearPercent": {
+              "qText": "-76.82%",
+              "qNum": -0.7682122897735496,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultBudgetPercent": {
+              "qText": "0.05%",
+              "qNum": 0.0004908310775302294,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultPrevYearPercent": {
+              "qText": "0.94%",
+              "qNum": 0.009355469858983945,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "factPrevYearPrecent": {
+              "qText": "-87 965 596 290.00",
+              "qNum": -87965596290.00168,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "budgetPercent": {
+              "qText": "-94 961 935 421.36",
+              "qNum": -94961935421.35823,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "factCurrYearPercent": {
+              "qText": "-98 628 037 480.12",
+              "qNum": -98628037480.11775,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultBudgetPercent": {
+              "qText": "-3 666 102 058.76",
+              "qNum": -3666102058.7595215,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultPrevYearPercent": {
+              "qText": "-10 662 441 190.12",
+              "qNum": -10662441190.116074,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "factPrevYearPrecent": {
+              "qText": "-77.76%",
+              "qNum": -0.7775677596325336,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "budgetPercent": {
+              "qText": "-76.87%",
+              "qNum": -0.7687031208510798,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "factCurrYearPercent": {
+              "qText": "-76.82%",
+              "qNum": -0.7682122897735496,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultBudgetPercent": {
+              "qText": "0.05%",
+              "qNum": 0.0004908310775302294,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultPrevYearPercent": {
+              "qText": "0.94%",
+              "qNum": 0.009355469858983945,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "factPrevYearPrecent": {
+              "qText": "-87 965 596 290.00",
+              "qNum": -87965596290.00168,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "budgetPercent": {
+              "qText": "-94 961 935 421.36",
+              "qNum": -94961935421.35823,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "factCurrYearPercent": {
+              "qText": "-98 628 037 480.12",
+              "qNum": -98628037480.11775,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultBudgetPercent": {
+              "qText": "-3 666 102 058.76",
+              "qNum": -3666102058.7595215,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "bridgeResultPrevYearPercent": {
+              "qText": "-10 662 441 190.12",
+              "qNum": -10662441190.116074,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      }
+    ],
+    "bridges": [
+      {
+        "id": "7510",
+        "name": "Себеcтоимость товаров",
+        "column1": [
+          {
+            "vsBudgetPercent": {
+              "qText": "1.87%",
+              "qNum": 0.01872906113521533,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "2.16%",
+              "qNum": 0.021563581528876052,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 433 450 450.46",
+              "qNum": -1433450450.4647064,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-9 345 547 078.31",
+              "qNum": -9345547078.31485,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "vsBudgetPercent": {
+              "qText": "1.87%",
+              "qNum": 0.01872906113521533,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "2.16%",
+              "qNum": 0.021563581528876052,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 433 450 450.46",
+              "qNum": -1433450450.4646912,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-9 345 547 078.31",
+              "qNum": -9345547078.31485,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7510",
+        "name": "Потери",
+        "column1": [
+          {
+            "vsBudgetPercent": {
+              "qText": "0.20%",
+              "qNum": 0.0020003389211618317,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "0.48%",
+              "qNum": 0.00475976756404892,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "108 908 197.30",
+              "qNum": 108908197.3045497,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "103 807 890.02",
+              "qNum": 103807890.01526546,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "vsBudgetPercent": {
+              "qText": "0.20%",
+              "qNum": 0.0020003389211618317,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "0.48%",
+              "qNum": 0.00475976756404892,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "108 908 197.30",
+              "qNum": 108908197.3045497,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "103 807 890.02",
+              "qNum": 103807890.01526785,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7510",
+        "name": "Логистические затраты",
+        "column1": [
+          {
+            "vsBudgetPercent": {
+              "qText": "0.25%",
+              "qNum": 0.002507132348811031,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "0.04%",
+              "qNum": 0.0004484970202250499,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "121 398 490.54",
+              "qNum": 121398490.53625679,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-541 542 251.71",
+              "qNum": -541542251.7054081,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "vsBudgetPercent": {
+              "qText": "0.25%",
+              "qNum": 0.002507132348811024,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "0.04%",
+              "qNum": 0.0004484970202250291,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "121 398 490.54",
+              "qNum": 121398490.53625584,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-541 542 251.71",
+              "qNum": -541542251.705409,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7510",
+        "name": "Бонусы от поставщиков",
+        "column1": [
+          {
+            "vsBudgetPercent": {
+              "qText": "-1.30%",
+              "qNum": -0.013028919909183354,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-0.77%",
+              "qNum": -0.007699594835690188,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 215 455 366.69",
+              "qNum": -1215455366.6915665,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "368 343 179.33",
+              "qNum": 368343179.33309937,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "vsBudgetPercent": {
+              "qText": "-1.30%",
+              "qNum": -0.013028919909183354,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-0.77%",
+              "qNum": -0.007699594835690188,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 215 455 366.69",
+              "qNum": -1215455366.6915665,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "368 343 179.33",
+              "qNum": 368343179.33309937,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7510",
+        "name": "Резерв на обесценение активов",
+        "column1": [
+          {
+            "vsBudgetPercent": {
+              "qText": "-0.97%",
+              "qNum": -0.009716781418475425,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-0.97%",
+              "qNum": -0.009716781418475425,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 247 502 929.44",
+              "qNum": -1247502929.4441562,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-1 247 502 929.44",
+              "qNum": -1247502929.4441562,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ],
+        "column2": [
+          {
+            "vsBudgetPercent": {
+              "qText": "-0.97%",
+              "qNum": -0.009716781418475425,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-0.97%",
+              "qNum": -0.009716781418475425,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          },
+          {
+            "vsBudgetPercent": {
+              "qText": "-1 247 502 929.44",
+              "qNum": -1247502929.4441562,
+              "qElemNumber": 0,
+              "qState": "L"
+            },
+            "vsFactPercent": {
+              "qText": "-1 247 502 929.44",
+              "qNum": -1247502929.4441562,
+              "qElemNumber": 0,
+              "qState": "L"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

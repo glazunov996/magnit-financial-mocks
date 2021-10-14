@@ -1,0 +1,10 @@
+{
+  "id": "85119cb8-36cf-4cf3-b34e-8f5d730edfb7",
+  "connection": {
+    "host": "qsense.corp.tander.ru",
+    "isSecure": true,
+    "prefix": "/dev/",
+    "port": 443
+  },
+  "indicators": "DESCRIPTION7"
+}
