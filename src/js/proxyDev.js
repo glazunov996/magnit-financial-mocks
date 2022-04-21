@@ -135,21 +135,15 @@ function onDataRequest(event) {
 }
 
 function onMetaRequest(event) {
-  processMetaRequest(event)
-    .then(sendMetaResponse)
-    .catch(sendError);
+  sendMetaResponse(event)
 }
 
 function onExportRequest(event) {
-  processExportRequest(event)
-    .then(sendExportResponse)
-    .catch(sendError);
+  sendExportResponse(event)
 }
 
-function onTemplateActionRequest() {
-  processTemplateActionRequest(event)
-    .then(sendTemplateAtionResponse)
-    .catch(sendError);
+function onTemplateActionRequest(event) {
+  sendTemplateAtionResponse(event)
 }
 
 function subscribeRequests() {

@@ -1,0 +1,328 @@
+[
+    [
+      {
+        "label": "Закладка_tst",
+        "description": "",
+        "id": "04fad030-2625-40e9-ac2f-2c706187bed8"
+      },
+      {
+        "label": "Закладка1",
+        "description": "",
+        "id": "6be46066-8752-433c-a3aa-10f3e874a712"
+      }
+    ],
+    [
+      [
+        {
+          "label": "201901",
+          "year": 2019,
+          "month": 1,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201902",
+          "year": 2019,
+          "month": 2,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201903",
+          "year": 2019,
+          "month": 3,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201904",
+          "year": 2019,
+          "month": 4,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201905",
+          "year": 2019,
+          "month": 5,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201906",
+          "year": 2019,
+          "month": 6,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201907",
+          "year": 2019,
+          "month": 7,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201908",
+          "year": 2019,
+          "month": 8,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201909",
+          "year": 2019,
+          "month": 9,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201910",
+          "year": 2019,
+          "month": 10,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201911",
+          "year": 2019,
+          "month": 11,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201912",
+          "year": 2019,
+          "month": 12,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202001",
+          "year": 2020,
+          "month": 1,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202002",
+          "year": 2020,
+          "month": 2,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202003",
+          "year": 2020,
+          "month": 3,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202004",
+          "year": 2020,
+          "month": 4,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202005",
+          "year": 2020,
+          "month": 5,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202006",
+          "year": 2020,
+          "month": 6,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202007",
+          "year": 2020,
+          "month": 7,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202008",
+          "year": 2020,
+          "month": 8,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202009",
+          "year": 2020,
+          "month": 9,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202010",
+          "year": 2020,
+          "month": 10,
+          "picked": false,
+          "disabled": false
+        }
+      ],
+      [
+        {
+          "label": "201901",
+          "year": 2019,
+          "month": 1,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201902",
+          "year": 2019,
+          "month": 2,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201903",
+          "year": 2019,
+          "month": 3,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201904",
+          "year": 2019,
+          "month": 4,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201905",
+          "year": 2019,
+          "month": 5,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201906",
+          "year": 2019,
+          "month": 6,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201907",
+          "year": 2019,
+          "month": 7,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201908",
+          "year": 2019,
+          "month": 8,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201909",
+          "year": 2019,
+          "month": 9,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201910",
+          "year": 2019,
+          "month": 10,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201911",
+          "year": 2019,
+          "month": 11,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "201912",
+          "year": 2019,
+          "month": 12,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202001",
+          "year": 2020,
+          "month": 1,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202002",
+          "year": 2020,
+          "month": 2,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202003",
+          "year": 2020,
+          "month": 3,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202004",
+          "year": 2020,
+          "month": 4,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202005",
+          "year": 2020,
+          "month": 5,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202006",
+          "year": 2020,
+          "month": 6,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202007",
+          "year": 2020,
+          "month": 7,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202008",
+          "year": 2020,
+          "month": 8,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202009",
+          "year": 2020,
+          "month": 9,
+          "picked": false,
+          "disabled": false
+        },
+        {
+          "label": "202010",
+          "year": 2020,
+          "month": 10,
+          "picked": false,
+          "disabled": false
+        }
+      ]
+    ]
+  ]

@@ -1,3 +1,5 @@
+import { default as mockMeta } from '../mocks/mockMeta.json';
+
 function dispatchRequestEvent(request) {
   const event = new CustomEvent('metarequest', { detail: request });
   window.dispatchEvent(event);
@@ -8,7 +10,7 @@ export function requestMeta(request) {
     function onRequestResponse(response) {
       window.removeEventListener('metaresponse', onRequestResponse);
       window.removeEventListener('error', onRequestError);
-      resolve(response.detail);
+      resolve(mockMeta)
     }
 
     function onRequestError() {

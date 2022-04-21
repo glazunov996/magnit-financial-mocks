@@ -48,47 +48,8 @@
     return requestOverviewData(request.dashboard);
   }
 
-  function requestMeta() {
-    const url = `${BASE_URL}/meta`;
-    return fetchRequest(url);
-  }
-
-  function requestExport() {
-    const url = `${BASE_URL}/export`;
-    return fetchRequest(url);
-  }
-
-  function requestTemplateAdd() {
-    const url = `${BASE_URL}/meta/templates/add`;
-    return fetchRequest(url);
-  }
-
-  function requestTemplateRemove() {
-    const url = `${BASE_URL}/meta/templates/remove`;
-    return fetchRequest(url);
-  }
-
-  function requestTemplateApply() {
-    const url = `${BASE_URL}/meta/templates/apply`;
-    return fetchRequest(url);
-  }
-
   function processDataRequest({ detail }) {
     return requestData(detail);
-  }
-
-  function processMetaRequest({ detail }) {
-    return requestMeta();
-  }
-
-  function processExportRequest({ detail }) {
-    return requestExport();
-  }
-
-  function processTemplateActionRequest({ detail }) {
-    if (detail.action === 'remove') return requestTemplateRemove();
-    else if (detail.action === 'add') return requestTemplateAdd();
-    return requestTemplateApply();
   }
 
   function dispatchResponseEvent(data, name) {
@@ -138,21 +99,15 @@
   }
 
   function onMetaRequest(event) {
-    processMetaRequest(event)
-      .then(sendMetaResponse)
-      .catch(sendError);
+    sendMetaResponse(event);
   }
 
   function onExportRequest(event) {
-    processExportRequest(event)
-      .then(sendExportResponse)
-      .catch(sendError);
+    sendExportResponse(event);
   }
 
-  function onTemplateActionRequest() {
-    processTemplateActionRequest(event)
-      .then(sendTemplateAtionResponse)
-      .catch(sendError);
+  function onTemplateActionRequest(event) {
+    sendTemplateAtionResponse(event);
   }
 
   function subscribeRequests() {
