@@ -1,11 +1,15 @@
-const BASE_URL = 'https://private-4d06fb-magnit1.apiary-mock.com/';
+const BASE_URL = '';
 
 function processResponse(response) {
-  return response.json();
+  return {};
+}
+
+function delay(time) {
+  return new Promise(resolve => setTimeout(resolve, time));
 }
 
 function fetchRequest(url) {
-  return fetch(url)
+  return delay(1000)
     .then(processResponse);
 }
 

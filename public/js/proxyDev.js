@@ -1,40 +1,37 @@
 (function () {
   'use strict';
 
-  const BASE_URL = 'https://private-4d06fb-magnit1.apiary-mock.com/';
-
   function processResponse(response) {
-    return response.json();
+    return {};
+  }
+
+  function delay(time) {
+    return new Promise(resolve => setTimeout(resolve, time));
   }
 
   function fetchRequest(url) {
-    return fetch(url)
+    return delay(1000)
       .then(processResponse);
   }
 
   function requestOverviewData(dashboard) {
-    const url = `${BASE_URL}${dashboard}/overview`;
-    return fetchRequest(url);
+    return fetchRequest();
   }
 
   function requestIndicatorData(dashboard) {
-    const url = `${BASE_URL}${dashboard}/indicators`;
-    return fetchRequest(url);
+    return fetchRequest();
   }
 
   function requestIndicatorFactorsData(dashboard) {
-    const url = `${BASE_URL}${dashboard}/factors`;
-    return fetchRequest(url);
+    return fetchRequest();
   }
 
   function requestIndicatorComparisonssData(dashboard) {
-    const url = `${BASE_URL}${dashboard}/comparisons`;
-    return fetchRequest(url);
+    return fetchRequest();
   }
 
   function requestExportData(dashboard) {
-    const url = `${BASE_URL}${dashboard}/export`;
-    return fetchRequest(url);
+    return fetchRequest();
   }
 
   function requestData(request) {

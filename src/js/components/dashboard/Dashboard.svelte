@@ -320,6 +320,7 @@
 
   async function fetchUpdateData(meta) { 
     const filters = getFilters();    
+    console.log("DASHBOARD", detail, indicator)
     if (detail === 'factors') {
       await hydrateDashboard(mockFactors);
       await tick();
@@ -329,6 +330,7 @@
       const bridges = await requestUpdate(dashboard, indicator, detail, filters, 'bridges');
       await renderFactors(results, bridges, meta);      
     } else if (indicator) {
+      console.log("SLICES")
       await hydrateDashboard(mockSlices);
       await tick();
       return

@@ -1,3 +1,6 @@
+import { default as mockOverview } from '../mocks/mockOverview.json';
+import { default as mockSlices } from '../mocks/mockSlices.json';
+
 let currentRequest;
 
 function resetRequest() {
@@ -5,15 +8,18 @@ function resetRequest() {
 }
 
 export function requestUpdate(dashboard, indicator, detail, filters, type) {
+  console.log("RESULT", indicator, detail, filters, type)
   const promise = new Promise((resolve, reject) => {
     function onDataResponse(response) {
+      console.log("RESPONSE OK")
       window.removeEventListener('dataresponse', onDataResponse);
       window.removeEventListener('error', onDataError);
-      resetRequest();      
-      resolve(response.detail);
+      resetRequest();   
+      resolve(mockOverview);
     }
 
     function onDataError() {
+      console.log("RESPONSE FAILED")
       window.removeEventListener('dataresponse', onDataResponse);
       window.removeEventListener('error', onDataError);
       resetRequest();
